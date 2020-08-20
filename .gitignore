@@ -17,3 +17,5 @@ whooshee/
 __pypackages__/
 .pdm.toml
 *.egg-info/
+/vev/
+venv
